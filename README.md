@@ -17,10 +17,10 @@ The two mains formulas used were:
 - `SUM()`
 
 ### Analysis of Outcomes Based on Launch Date
-![](Resources/Theater_Outcomes_vs_Launch.png)
+![](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![](Resources/Outcomes_vs_Goals.png)
+![](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
