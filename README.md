@@ -30,9 +30,9 @@ When writing the Excel formulas, syntax is very important. One typo can cause da
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
- :bulb:There are two conclusions that can be drawn based on the graphic above:
-    1. Summer has more successful campaings with May having the highest.
-    2. Failure has no relation with launch date. 
+:bulb:There are two conclusions that can be drawn based on the graphic above:
+  - 1. Summer has more successful campaings with May having the highest.
+  - 2. Failure has no relation with launch date. 
 
 - What can you conclude about the Outcomes based on Goals?
 
@@ -40,7 +40,7 @@ When writing the Excel formulas, syntax is very important. One typo can cause da
 
 - What are some limitations of this dataset?
 
- :bulb:There maybe outside influence that were not captured in this dataset that helps explains the success or failure of the campaigns.
+:bulb:There maybe outside influence that were not captured in this dataset that helps explains the success or failure of the campaigns.
 
 - What are some other possible tables and/or graphs that we could create?
     - Outcome by country
