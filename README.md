@@ -38,7 +38,7 @@ When writing the Excel formulas, syntax is very important. One typo can cause da
 :point_right:What can you conclude about the Outcomes based on Goals?
 
     Using the chart above, as the goal size increases, the success rate decreases while the failure increases. 
-    However, there is an interesting twist in the goal range of 35000 to  44999. This may indicate a sweet spot to set goals. 
+    There is an interesting twist in the goal range of 35000 to 44999. This may indicate a sweet spot to set goals. 
 
 :point_right:What are some limitations of this dataset?
 
