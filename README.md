@@ -43,6 +43,7 @@ When writing the Excel formulas, syntax is very important. One typo can cause da
 :point_right:There maybe outside influence that were not captured in this dataset that helps explains the success or failure of the campaigns.
 
 - What are some other possible tables and/or graphs that we could create?
+
 :point_right: Below are the 3 possible tables and/or graphs we could possibly create:
     - Outcome by country
     - Outcome by staff pick 
