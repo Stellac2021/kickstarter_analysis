@@ -31,8 +31,8 @@ When writing the Excel formulas, syntax is very important. One typo can cause da
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 :bulb:There are two conclusions that can be drawn based on the graphic above:
-    - 1. Summer has more successful campaings with May having the highest.
-    - 2. Failure has no relation with launch date. 
+    - Summer has more successful campaings with May having the highest.
+    - Failure has no relation with launch date. 
 
 - What can you conclude about the Outcomes based on Goals?
 
